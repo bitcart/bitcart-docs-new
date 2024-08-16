@@ -60,11 +60,11 @@ const config: Config = {
             position: "left",
             label: "Tutorial",
           },
-          {
-            label: "Petstore API",
-            position: "left",
-            to: "/docs/category/petstore-api",
-          },
+          // {
+          //   label: "Petstore API",
+          //   position: "left",
+          //   to: "/docs/category/petstore-api",
+          // },
           {
             href: "https://github.com/facebook/docusaurus",
             label: "GitHub",
@@ -106,7 +106,7 @@ const config: Config = {
             items: [
               {
                 label: "Blog",
-                to: "/blog",
+                to: "https://blog.bitcart.ai",
               },
               {
                 label: "GitHub",
